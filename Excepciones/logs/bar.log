@@ -1,0 +1,117 @@
+INFO:root:El camarero esta serviendo el cafe
+INFO:root:La taza de cafe esta a 83 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+ERROR:root:El cliente se queja de algo
+INFO:root:El camarero esta serviendo el cafe
+INFO:root:La taza de cafe esta a 66 y es de Expresso
+INFO:root:El cliente Juan se ha tomado una taza de Expresso 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 18 y es de Descafeinado
+INFO:root:El cliente Juan se ha tomado una taza de Descafeinado 
+ERROR:root:El cliente se queja de algo
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 70 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 74 y es de Descafeinado
+INFO:root:El cliente Juan se ha tomado una taza de Descafeinado 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 47 y es de Descafeinado
+INFO:root:El cliente Juan se ha tomado una taza de Descafeinado 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 42 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 43 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 30 y es de Descafeinado
+INFO:root:El cliente Juan se ha tomado una taza de Descafeinado 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 75 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 84 y es de cafe solo
+INFO:root:El cliente Juan se ha tomado una taza de cafe solo 
+ERROR:root:El cliente se queja de algo
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 97 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+ERROR:root:El cliente se queja de algo
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 40 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 64 y es de cafe solo
+INFO:root:El cliente Juan se ha tomado una taza de cafe solo 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 31 y es de Descafeinado
+INFO:root:El cliente Juan se ha tomado una taza de Descafeinado 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 76 y es de cafe solo
+INFO:root:El cliente Juan se ha tomado una taza de cafe solo 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 34 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 57 y es de cafe solo
+INFO:root:El cliente Juan se ha tomado una taza de cafe solo 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 50 y es de Descafeinado
+INFO:root:El cliente Juan se ha tomado una taza de Descafeinado 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 35 y es de Descafeinado
+INFO:root:El cliente Juan se ha tomado una taza de Descafeinado 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 38 y es de Expresso
+INFO:root:El cliente Juan se ha tomado una taza de Expresso 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 74 y es de cafe solo
+INFO:root:El cliente Juan se ha tomado una taza de cafe solo 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 27 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 82 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+ERROR:root:El cliente se queja de algo
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 45 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+INFO:root:El cliente Juan se ha tomado la taza
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 11 y es de cafe solo
+INFO:root:El cliente Juan se ha tomado una taza de cafe solo 
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 84 y es de cafe con leche
+INFO:root:El cliente Juan se ha tomado una taza de cafe con leche 
+ERROR:root:El cliente se ha quemado la lengua
+ERROR:root:El camarero le enfría un poco el café
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 92 y es de Expresso
+INFO:root:El cliente Juan se ha tomado una taza de Expresso 
+ERROR:root:El cliente se ha quemado la lengua
+ERROR:root:El camarero le enfría un poco el café
+INFO:root:El camarero esta sirviendo el cafe
+INFO:root:La taza de cafe esta a 44 y es de Expresso
+INFO:root:El cliente Juan se ha tomado una taza de Expresso 
+INFO:root:El cliente Juan se ha tomado la taza

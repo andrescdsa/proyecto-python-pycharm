@@ -1,0 +1,22 @@
+Clases
+    Instrumento
+        Nombre
+        Tipo
+    Guitarra
+        num_cuerdas
+    Guitarra_eléctrica
+        potencia
+    Piano
+        num_teclas
+    Tambor
+        tamanio
+        aporrear() --> print("Aporreando el tambor <nombre>")
+
+    Métodos de las clases
+    decorador para los métodos afinar y tocar que muestre log antes y después de la ejecución (desactivados en log.info o superior)
+    afinar() ---> de manera aleatoria se afina correctamente o no
+    tocar () ---> tocando el instrumento <nombre> de manera correcta si no está afinado (se lanza excepción)
+
+    Orquesta
+        crear_orquesta() ---> 1 Guitarra 1 Guitarra_eléctrica 1 piano y 1 tambor ---> Todos los instrumentos en una lista
+        iniciar_concierto() ---> A partir del listado de instrumentos, 1º Se afinan todos, 2º Ponen a tocar
